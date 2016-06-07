@@ -1,7 +1,3 @@
 #!/bin/bash
 #
-Go Sky!
-#
-Go Sky Two!
-#
-Go Sky Three!
+git Cs
