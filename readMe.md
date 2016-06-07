@@ -1,11 +1,10 @@
-<style>
-    body{font-family:Consolas}
-    fstb{}
-</style>
+####魔灵自动化管理脚本程序
+####
 
-####20160530
-<B><span style="color:red">已完成</style></B>
-## Xuankids
+Init:
 
-`魔灵自动化管理脚本程序`
-``
+* CentOS6.x ( minimal )
+* Python3.4.2
+* mkdocs0.15.3
+
+
